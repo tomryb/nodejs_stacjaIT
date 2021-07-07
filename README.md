@@ -1,2 +1,3 @@
-# nodejs_stacjaIT
-Stacja IT warsztat nodejs
+### Kurs nodejs_stacjaIT
+
+Podstawy zastosowania Node.js.
